@@ -1,0 +1,34 @@
+.encabezado {
+	font-size: 40px; 
+	color: #f3f3f3;
+	background-color: #000; 
+}
+.contenedor {
+	border: solid 1px #F00;
+	font-weight: bold;
+	width: 600px;
+	height: 200px; 
+	margin: 25px;
+	padding: 15px;
+	overflow: hidden;
+	clear: both;
+}
+
+.contenido {
+	background-repeat: no-repeat;
+	background-size: cover; 
+	background-position: center center;
+	background-image: url('frases.png');
+	background-color: #ae144a !important; 
+}
+
+.producto {
+	width: 225px;
+	float: left;
+	margin: 15px; 
+
+}
+.producto img {
+	width: 100%;
+	overflow: hidden;
+}
